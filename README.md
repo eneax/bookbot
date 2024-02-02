@@ -1,3 +1,3 @@
 # Book Bot
 
-A Python program that analyzes the text of an entire book and prints an interesting statistical report.
+A Python command-line program that reads text from a file and generates a report about the text.
